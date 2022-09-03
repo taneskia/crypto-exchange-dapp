@@ -1,0 +1,3 @@
+[submodule "crypto-exchange-dapp-clients"]
+	path = crypto-exchange-dapp-clients
+	url = git@github.com:taneskia/crypto-exchange-dapp-clients.git
